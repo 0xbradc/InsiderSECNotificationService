@@ -12,13 +12,13 @@ Thank you to the various contributors of [other open source applications](https:
 
 2. Install necessary dependencies found in the import statements. Some dependencies that may be required are bs4 and schedule. These can be downloaded with the following terminal statements.
     ```
-    pip3 install bs4
-    pip3 install schedule
+    $ pip3 install bs4
+    $ pip3 install schedule
     ```
 
 3. Run the following command in the root directory of the downloaded folder to start the email server.
     ```
-    python3 main.py
+    $ python3 main.py
     ```
 
 
