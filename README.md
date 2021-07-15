@@ -22,6 +22,12 @@ Thank you to the various contributors of [other open source applications](https:
     ```
 
 
+# Example Response
+
+The email service should be sending an SEC Form 4 Filing Report to the inputted email between 7:30 pm and 8:30 pm local time. Below is an example response.
+
+<img width="389" alt="Screen Shot 2021-07-15 at 7 04 21 AM" src="https://user-images.githubusercontent.com/48145615/125785458-1ce531e4-1a5c-41bd-bc92-ffef1befd356.png">
+
 
 # Resources
 [Date/Time Docs](https://www.programiz.com/python-programming/datetime/current-datetime)
